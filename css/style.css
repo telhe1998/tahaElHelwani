@@ -7,8 +7,9 @@ Developed @ One Month in NYC
 
 */
 body {
-	background: url('../images/profilepicture.jpg');
+	background: url('../images/natureimage.jpg');
 	/* the follow is the code to have the image display as a full page */
+	size: 70%;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
